@@ -1,4 +1,4 @@
-# Bootstrap Arrayfire D3M Dev Environment
+# Arrayfire D3M Dev Environment on EC2
 
 ## Amazon EC2
 
